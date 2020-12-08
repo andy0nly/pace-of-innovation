@@ -138,6 +138,7 @@ svg{overflow: visible;}
   @media only screen and (max-width: 600px) {
     .bars{
       width: 90%;
+      height: 70%;
     }
     .bar{
       padding-left: 0px;
